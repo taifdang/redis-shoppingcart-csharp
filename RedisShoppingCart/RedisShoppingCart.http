@@ -1,0 +1,6 @@
+@RedisShoppingCart_HostAddress = http://localhost:5073
+
+GET {{RedisShoppingCart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
