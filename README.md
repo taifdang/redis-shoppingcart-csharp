@@ -1,7 +1,7 @@
 <div align="center">
    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/9a677a5b-4dff-402f-9ebb-82b7b539783c" />
 </div>
-
+<br>
 
 >🤖 ***Sample Redis Shopping Cart, built with .Net 8 and N-Tier Layer Architecture.***
 
